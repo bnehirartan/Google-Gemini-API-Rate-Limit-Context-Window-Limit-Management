@@ -1,1 +1,1 @@
-# Google-Gemini-API-Rate-Limit-Context-Window-Limit-Management
+# Google-Gemini-API-Rate-Limit-and-Context-Window-Size-Management
